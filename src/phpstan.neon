@@ -1,0 +1,6 @@
+parameters:
+    paths:
+        - lib\BJ
+    level: 6
+    excludePaths:
+        - vendor
